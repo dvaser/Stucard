@@ -1,6 +1,5 @@
-# stucard
-
-A new Flutter project.
+# Stucard
+Student Card System
 
 ## Getting Started
 
